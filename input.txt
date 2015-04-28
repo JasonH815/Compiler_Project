@@ -1,0 +1,22 @@
+(* 	Program Name: Fall 2013
+	Final Project
+
+-----------------------------------------------*)
+PROGRAM baa13;
+VAR
+	(* declare variables *)
+	bad, da12,  abba : INTEGER   ;    
+
+	
+BEGIN
+	da12		=  12	 ;
+	PRINT("da12=",		da12) ;
+	
+	abba =10;
+	
+	bad = da12*(3 * da12 * abba ;(* find the value of bad*)
+	
+	(* display the bad value *)
+	  PRINT(  bad) ;
+END.
+	
